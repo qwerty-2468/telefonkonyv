@@ -1,0 +1,11 @@
+#Névjegyzék adatbázis fájl   v1
+#
+#ID|Név|Foglalkozás|Cím|Telefonszám|Email
+
+1|Kertész Lajos|Birkapásztor|Alma u. 9.|+36301234567|kertesz.lajos@gmail.com
+2|Nagy Nándor|Órás|Gém u. 65.|+3611234567|nagyora@gmail.com
+3|Kiss János|vonatkerék pumpáló|1234 Budapest, Vasút utca 55.|+34567654321|jancsika01@citromail.hu
+4|Gáz Géza|gázszerelõ|Pillangó utca 8.|+3613456784|gaz.geza@citromail.hu
+5|Albert Aladár|színész|Hegyalja út 123.|06206789877|aaladar@szfe.hu
+6|Kis Alma|n/a|alma utca 1.|06305552553|kalma@microsoft.com
+7|Es Ernõ|esõvédelmi ügynök|Nyúl utca 3.|0614536798|eserno@gmail.com

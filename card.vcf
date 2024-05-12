@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Kis Alma
+ADR;type=HOME:alma utca 1.
+TEL;type=WORK;type=VOICE;type=pref:06255555529
+TEL;type=CELL;type=VOICE:06305552553
+EMAIL;TYPE=work:kalma@microsoft.com
+END:VCARD
